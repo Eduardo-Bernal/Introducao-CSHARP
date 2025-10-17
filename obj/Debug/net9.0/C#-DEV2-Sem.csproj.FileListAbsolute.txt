@@ -1,0 +1,15 @@
+C:\Users\44438098807\Desktop\C#-DEV2-Sem\bin\Debug\net9.0\C#-DEV2-Sem.exe
+C:\Users\44438098807\Desktop\C#-DEV2-Sem\bin\Debug\net9.0\C#-DEV2-Sem.deps.json
+C:\Users\44438098807\Desktop\C#-DEV2-Sem\bin\Debug\net9.0\C#-DEV2-Sem.runtimeconfig.json
+C:\Users\44438098807\Desktop\C#-DEV2-Sem\bin\Debug\net9.0\C#-DEV2-Sem.dll
+C:\Users\44438098807\Desktop\C#-DEV2-Sem\bin\Debug\net9.0\C#-DEV2-Sem.pdb
+C:\Users\44438098807\Desktop\C#-DEV2-Sem\obj\Debug\net9.0\C#-DEV2-Sem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\44438098807\Desktop\C#-DEV2-Sem\obj\Debug\net9.0\C#-DEV2-Sem.AssemblyInfoInputs.cache
+C:\Users\44438098807\Desktop\C#-DEV2-Sem\obj\Debug\net9.0\C#-DEV2-Sem.AssemblyInfo.cs
+C:\Users\44438098807\Desktop\C#-DEV2-Sem\obj\Debug\net9.0\C#-DEV2-Sem.csproj.CoreCompileInputs.cache
+C:\Users\44438098807\Desktop\C#-DEV2-Sem\obj\Debug\net9.0\C#-DEV2-Sem.sourcelink.json
+C:\Users\44438098807\Desktop\C#-DEV2-Sem\obj\Debug\net9.0\C#-DEV2-Sem.dll
+C:\Users\44438098807\Desktop\C#-DEV2-Sem\obj\Debug\net9.0\refint\C#-DEV2-Sem.dll
+C:\Users\44438098807\Desktop\C#-DEV2-Sem\obj\Debug\net9.0\C#-DEV2-Sem.pdb
+C:\Users\44438098807\Desktop\C#-DEV2-Sem\obj\Debug\net9.0\C#-DEV2-Sem.genruntimeconfig.cache
+C:\Users\44438098807\Desktop\C#-DEV2-Sem\obj\Debug\net9.0\ref\C#-DEV2-Sem.dll
